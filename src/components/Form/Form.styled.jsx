@@ -7,4 +7,5 @@ export const FormStyle = styled.form`
   gap: 20px;
   flex-wrap: wrap;
   border: 1px solid grey;
+
 `;

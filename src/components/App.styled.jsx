@@ -29,4 +29,5 @@ export const ButtonStyle = styled.button`
   &:hover {
     background-color: blue;
   }
+  cursor: pointer;
 `;
